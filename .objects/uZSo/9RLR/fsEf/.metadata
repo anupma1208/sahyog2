@@ -1,0 +1,14 @@
+﻿{
+  "Id": "fsEfhdMwikmlQjRtub7LpA",
+  "Reference": "1XhI3KxmEEem1caQzEsOcw/fsEfhdMwikmlQjRtub7LpA",
+  "ParentRef": "1XhI3KxmEEem1caQzEsOcw/9RLRxma77kuWoHqpsmPrwA",
+  "Name": "Chrome Adactin.com - Hotel Reservation System",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-04-22T07:01:13.0052835Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-22T07:01:13.0052835Z"
+}

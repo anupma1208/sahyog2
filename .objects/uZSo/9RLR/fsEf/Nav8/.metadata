@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Nav86jIEVUChKcG7R8-7kw",
+  "Reference": "1XhI3KxmEEem1caQzEsOcw/Nav86jIEVUChKcG7R8-7kw",
+  "ParentRef": "1XhI3KxmEEem1caQzEsOcw/fsEfhdMwikmlQjRtub7LpA",
+  "Name": "Select Item 'Location'",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2022-04-22T07:02:58.712538Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-22T07:02:58.712538Z"
+}
